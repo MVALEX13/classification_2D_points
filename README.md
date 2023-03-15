@@ -12,8 +12,7 @@ $$X_{train} =
 \left(\begin{array}{cc} 
 x_{1,1} & ... & x_{1,m} \\
 x_{2,1} & ... & x_{2,m}
-\end{array}\right)^T
-= 
+\end{array}\right)^T = 
 \left(\begin{array}{cc} 
 x_{1,1} & x_{2,1} \\
 ... & ... \\
